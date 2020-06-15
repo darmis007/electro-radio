@@ -1,0 +1,17 @@
+{
+  "name": "radioapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Darsh Mishra <darshmishra3010@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.4",
+    "jquery": "^3.5.1",
+    "lautfm": "^1.1.0"
+  }
+}
