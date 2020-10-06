@@ -10,7 +10,7 @@
   "author": "Darsh Mishra <darshmishra3010@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.0.4",
+    "electron": "^9.3.0",
     "jquery": "^3.5.1",
     "lautfm": "^1.1.0"
   }
